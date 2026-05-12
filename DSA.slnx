@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../QueueArrayProject/QueueArrayProject.csproj" Id="5c427d83-b586-4455-b2e3-1df2eb0c5156" />
+  <Project Path="../QueueStackProject/QueueStackProject.csproj" Id="5189bab9-94ff-421d-91d2-b658dfec0653" />
+  <Project Path="../StackArrayProject/StackArrayProject.csproj" Id="85c5a5e3-2c81-45b0-bf51-4af9f8bfb26c" />
+</Solution>
